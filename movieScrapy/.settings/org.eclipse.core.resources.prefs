@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//movieScrapy/items.py=utf-8
+encoding//movieScrapy/middlewares.py=utf-8
+encoding//movieScrapy/pipelines.py=utf-8
+encoding//movieScrapy/settings.py=utf-8
+encoding//movieScrapy/spiders/movieSpider.py=UTF-8
+encoding//sql/dbHelper.py=utf-8
+encoding//sql/moviesun.py=utf-8
+encoding/main.py=UTF-8
+encoding/text.py=UTF-8
